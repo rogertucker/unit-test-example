@@ -1,0 +1,5 @@
+.vscode
+Report
+**/bin
+**/obj
+**/*.cobertura.xml
